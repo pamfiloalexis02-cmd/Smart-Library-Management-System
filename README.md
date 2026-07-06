@@ -5,6 +5,8 @@ Project Modules
 
 - Member Management
 - Book Catalog
+- Borrowing
+- Returning
 - Book Borrowing
 - Book Returning
 - Inventory Management
